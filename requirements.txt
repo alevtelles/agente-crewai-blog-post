@@ -1,0 +1,7 @@
+hnswlib
+chromadb
+crewai
+crewai-tools
+agentops
+imbox
+setuptools
